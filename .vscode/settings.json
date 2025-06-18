@@ -1,0 +1,6 @@
+{
+    "accessibility.verbosity.inlineChat": false,
+    "inlineChat.accessibleDiffView": "off",
+    "inlineChat.holdToSpeech": false,
+    "inlineChat.lineNaturalLanguageHint": false
+}
