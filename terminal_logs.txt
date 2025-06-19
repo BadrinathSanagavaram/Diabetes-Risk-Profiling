@@ -1,0 +1,59 @@
+WARN[0000] /Users/badrinathsanagavaram/Desktop/Diabeties-Risk-Profiling/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion 
+invalid containerPort:  5432
+(base) badrinathsanagavaram@Mac Diabeties-Risk-Profiling % docker compose up -d
+[+] Running 11/1
+[+] Running 11/1⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿] 44.63MB / 154.2MB 
+[+] Running 11/1⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿] 46.77MB / 154.2MB 
+[+] Running 11/1⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿] 48.36MB / 154.2MB 
+[+] Running 11/1⣿⣿⣿⣿⣿⡀⣿⣿⣿⣿⣿]  52.1MB / 154.2MB 
+[+] Running 11/1⣿⣿⣿⣿⣿⡀⣿⣿⣿⣿⣿] 57.66MB / 154.2MB 
+[+] Running 11/1⣿⣿⣿⣿⣿⡀⣿⣿⣿⣿⣿] 62.02MB / 154.2MB 
+[+] Running 11/1⣿⣿⣿⣿⣿⣀⣿⣿⣿⣿⣿] 68.26MB / 154.2MB 
+[+] Running 11/1⣿⣿⣿⣿⣿⣀⣿⣿⣿⣿⣿] 74.63MB / 154.2MB 
+[+] Running 11/1⣿⣿⣿⣿⣿⣀⣿⣿⣿⣿⣿] 79.99MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣀⣿⣿⣿⣿⣿]  83.3MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣄⣿⣿⣿⣿⣿] 88.13MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣄⣿⣿⣿⣿⣿] 91.35MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣄⣿⣿⣿⣿⣿] 95.63MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿] 101.6MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿] 105.3MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿]   108MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣦⣿⣿⣿⣿⣿] 114.4MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣦⣿⣿⣿⣿⣿] 122.4MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿] 129.4MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿] 129.4MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿] 137.4MB / 154.2MB 
+[+] Running 14/1⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿] 144.4MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 150.8MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 152.3MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 154.2MB / 154.2MB 
+[+] Running 13/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 154.2MB / 154.2MB 
+[+] Running 14/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 154.2MB / 154.2MB 
+[+] Running 14/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 154.2MB / 154.2MB 
+[+] Running 15/1⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 154.2MB / 154.2MB 
+ ✔ postgres Pulled                        6.8s 
+[+] Running 1/0
+ ✔ Network diabeties-risk-profiling_default  Cr[+] Running 1/2
+ ✔ Network diabeties-risk-profiling_default  Cr[+] Running 1/2
+ ✔ Network diabeties-risk-profiling_default  Cr[+] Running 1/2
+ ✔ Network diabeties-risk-profiling_default  Cr[+] Running 2/2
+ ✔ Network diabeties-risk-profiling_default  Created0.0s  
+ ✔ Container postgres_server                 Started0.4s 

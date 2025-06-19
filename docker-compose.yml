@@ -1,0 +1,10 @@
+services: 
+  postgres:
+    image: postgres:latest
+    container_name : postgres_server
+    environment:
+      POSTGRES_USER : myuser
+      POSTGRES_PASSWORD : mypass
+      POSTGRES_DB : Medical-Data-Source-DB
+    ports:
+    - "5433:5432"
